@@ -8,7 +8,7 @@ import time
 app = Flask(__name__, static_folder="static")
  
 # ------------------- НАСТРОЙКИ -------------------
-TOKEN = "t.a_yTo2QKdKX0FFwrNTmkvlKAfBml74hg7SVdW-GbyAVhY5znKubj2meA61ufoYGu_awUxQvozh07QHBrY3OgZA"
+TOKEN = "TINKOFF_TOKEN"
  
 # пример сокращённого списка для теста (оставь свои инструменты)
 INSTRUMENTS = {
