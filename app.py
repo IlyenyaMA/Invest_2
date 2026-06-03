@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, send_from_directory
-from tinkoff import Client, CandleInterval
+from tinkoff.invest import Client, CandleInterval
 import pandas as pd
 from datetime import datetime, timedelta, timezone
 import threading
