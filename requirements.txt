@@ -1,5 +1,5 @@
 flask
 requests
 pandas
-tinkoff-investments
+tinkoff.invest
 gunicorn
